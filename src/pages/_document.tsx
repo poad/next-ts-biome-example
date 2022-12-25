@@ -45,9 +45,11 @@ NextDocument.getInitialProps = async (ctx: DocumentContext) => {
 
   ctx.renderPage = () =>
     originalRenderPage({
-      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      // eslint-disable @typescript-eslint/no-explicit-any
+      // rome-ignore lint/suspicious/noExplicitAny: <explanation>
       enhanceApp: (App: any) => (props) =>
         <App emotionCache={cache} {...props} />,
+      // eslint-enable
     });
 
   const initialProps = await Document.getInitialProps(ctx);
@@ -55,15 +57,18 @@ NextDocument.getInitialProps = async (ctx: DocumentContext) => {
   // See https://github.com/mui-org/material-ui/issues/26561#issuecomment-855286153
   const emotionStyles = extractCriticalToChunks(initialProps.html);
   const emotionStyleTags = emotionStyles.styles.map(
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    // eslint-disable @typescript-eslint/no-explicit-any
+    // rome-ignore lint/suspicious/noExplicitAny: <explanation>
     (style: { key: React.Key | null | undefined; ids: any[]; css: any }) => (
       <style
         data-emotion={`${style.key} ${style.ids.join(' ')}`}
         key={style.key}
         // eslint-disable-next-line react/no-danger
+        // rome-ignore lint/security/noDangerouslySetInnerHtml: <explanation>
         dangerouslySetInnerHTML={{ __html: style.css }}
       />
     ),
+    // eslint-enable
   );
 
   return {

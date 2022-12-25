@@ -86,7 +86,7 @@ const Layout = (props: PropsWithChildren<LayoutProps>) => {
         >
           <MenuIcon />
         </IconButton>
-        <Typography variant="h6" noWrap></Typography>
+        <Typography variant="h6" noWrap />
       </Toolbar>
     </AppBar>
   );
