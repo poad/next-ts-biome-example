@@ -823,7 +823,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mui/styled-engine@npm:^5.11.0":
+"@mui/styled-engine@npm:^5.11.8":
   version: 5.11.8
   resolution: "@mui/styled-engine@npm:5.11.8"
   dependencies:
@@ -845,12 +845,12 @@ __metadata:
   linkType: hard
 
 "@mui/system@npm:^5.11.7":
-  version: 5.11.7
-  resolution: "@mui/system@npm:5.11.7"
+  version: 5.11.8
+  resolution: "@mui/system@npm:5.11.8"
   dependencies:
     "@babel/runtime": ^7.20.7
     "@mui/private-theming": ^5.11.7
-    "@mui/styled-engine": ^5.11.0
+    "@mui/styled-engine": ^5.11.8
     "@mui/types": ^7.2.3
     "@mui/utils": ^5.11.7
     clsx: ^1.2.1
@@ -868,7 +868,7 @@ __metadata:
       optional: true
     "@types/react":
       optional: true
-  checksum: 00dbd8e7c62b97595ba75fb5c508454c7235579524ae7aab0e5e8294adf8d42cefbe5437445db7921baaefe37e7251773643f9a943277e8f2e8945970aae2b47
+  checksum: 4a0cda98fbe5d0b73f745d7a454703e9730cedcd4f0e1f76be7320e523bae5e7c0147eb50091d7d6f9bf37c9e28f28e9f3aba2843d26f0351487cbde29a6bb56
   languageName: node
   linkType: hard
 
