@@ -1139,9 +1139,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 18.14.6
-  resolution: "@types/node@npm:18.14.6"
-  checksum: 2f88f482cabadc6dbddd627a1674239e68c3c9beab56eb4ae2309fb96fd17fc3a509d99b0309bafe13b58529574f49ecf3a583f2ebe2896dd32fe4be436dc96e
+  version: 18.15.0
+  resolution: "@types/node@npm:18.15.0"
+  checksum: d81372276dd5053b1743338b61a2178ff9722dc609189d01fc7d1c2acd539414039e0e4780678730514390dad3f29c366a28c29e8dbd5b0025651181f6dd6669
   languageName: node
   linkType: hard
 
@@ -1448,11 +1448,11 @@ __metadata:
   linkType: hard
 
 "autoprefixer@npm:*":
-  version: 10.4.13
-  resolution: "autoprefixer@npm:10.4.13"
+  version: 10.4.14
+  resolution: "autoprefixer@npm:10.4.14"
   dependencies:
-    browserslist: ^4.21.4
-    caniuse-lite: ^1.0.30001426
+    browserslist: ^4.21.5
+    caniuse-lite: ^1.0.30001464
     fraction.js: ^4.2.0
     normalize-range: ^0.1.2
     picocolors: ^1.0.0
@@ -1461,7 +1461,7 @@ __metadata:
     postcss: ^8.1.0
   bin:
     autoprefixer: bin/autoprefixer
-  checksum: dcb1cb7ae96a3363d65d82e52f9a0a7d8c982256f6fd032d7e1ec311f099c23acfebfd517ff8e96bf93f716a66c4ea2b80c60aa19efd2f474ce434bd75ef7b79
+  checksum: e9f18e664a4e4a54a8f4ec5f6b49ed228ec45afaa76efcae361c93721795dc5ab644f36d2fdfc0dea446b02a8067b9372f91542ea431994399e972781ed46d95
   languageName: node
   linkType: hard
 
@@ -1567,7 +1567,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"browserslist@npm:^4.21.3, browserslist@npm:^4.21.4":
+"browserslist@npm:^4.21.3, browserslist@npm:^4.21.5":
   version: 4.21.5
   resolution: "browserslist@npm:4.21.5"
   dependencies:
@@ -1677,10 +1677,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"caniuse-lite@npm:^1.0.30001406, caniuse-lite@npm:^1.0.30001426, caniuse-lite@npm:^1.0.30001449":
-  version: 1.0.30001462
-  resolution: "caniuse-lite@npm:1.0.30001462"
-  checksum: e4a57d7851eec65e7c9b6c11c4bbcecdc49d87b1b01bff3c15ea27efb05f959891b4c70ac169842067c134d6fa126d9ad5a91d0f85c7387c5bd912eaf41ea647
+"caniuse-lite@npm:^1.0.30001406, caniuse-lite@npm:^1.0.30001449, caniuse-lite@npm:^1.0.30001464":
+  version: 1.0.30001464
+  resolution: "caniuse-lite@npm:1.0.30001464"
+  checksum: 67cdee102c1660d62d7b9dbd4740bb7af096236618f2509fd2e0039d50db5f02fb87c21d90b6d573fdcf50deaf3c84503d009e871502b5c221d0ba1dec18ba11
   languageName: node
   linkType: hard
 
@@ -2208,9 +2208,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.284":
-  version: 1.4.325
-  resolution: "electron-to-chromium@npm:1.4.325"
-  checksum: 25c05fd7c9cde12fcc620504edb252413658081f0b0d2598751f5d84573414781688c9793515d58398d96581538982010a97210cd816b65e1db57036315234e8
+  version: 1.4.326
+  resolution: "electron-to-chromium@npm:1.4.326"
+  checksum: 66e22009619f8b83e6f8435cc71b52fb0e12ea1fa992f89b0907e49a1937b5a00821b86433c2d639dfff757bf88dfb1f43a97aa1e110d8fb3003729fb5b7a371
   languageName: node
   linkType: hard
 
@@ -4698,13 +4698,13 @@ __metadata:
   linkType: hard
 
 "rimraf@npm:*":
-  version: 4.3.1
-  resolution: "rimraf@npm:4.3.1"
+  version: 4.4.0
+  resolution: "rimraf@npm:4.4.0"
   dependencies:
     glob: ^9.2.0
   bin:
     rimraf: dist/cjs/src/bin.js
-  checksum: d5893862a1e96cde610599ae76e338a709252667408d38bffa07cd24891a840a95957c4bb7178a9b0d3b6141e3b1bea20b9ba4b4f99d8c9edc492723e7b125ec
+  checksum: 0cedaf9d138589d1bb0ab851f05804c6d30827aa66563472b04ab76245f83537e23e7b94f1f79ea6c368c0d84a18fcde6a756fca3a44c967e08792671b3a0a6e
   languageName: node
   linkType: hard
 
@@ -5525,9 +5525,9 @@ __metadata:
   linkType: hard
 
 "web-vitals@npm:*":
-  version: 3.1.1
-  resolution: "web-vitals@npm:3.1.1"
-  checksum: 26d552d7e0bba470e1426bbf55c3c1a701c683bbde4553791a2c7e1bc3a7b7b29bf66ccf67c74872af3aa39e5668728736b90f8b3fee2910c0c566e7eb1b6096
+  version: 3.3.0
+  resolution: "web-vitals@npm:3.3.0"
+  checksum: 925a912ec3e0d11fe19687b13abb8fc9d6054433f8ee4636fd4c03de3744264cea448e2c36a20fe82bc5979c796cf0ed20668f2b92beef8e134b195e38c231f8
   languageName: node
   linkType: hard
 
