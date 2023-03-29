@@ -12,7 +12,7 @@
     "format-check": "rome format src",
     "format": "rome format --write src",
     "check": "rome check src",
-    "check-fix": "rome check --apply-suggested src",
+    "check-fix": "rome check --apply src",
     "lint": "yarn format-check && yarn check",
     "lint-fix": "yarn format && yarn check-fix",
     "clean": "rimraf build",
@@ -49,9 +49,6 @@
     "swc-loader": "*",
     "tailwindcss": "*",
     "typescript": "*"
-  },
-  "resolutions": {
-    "json5": ">=2.2.2"
   },
   "packageManager": "yarn@3.5.0"
 }
