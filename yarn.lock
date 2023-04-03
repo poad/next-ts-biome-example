@@ -1199,13 +1199,13 @@ __metadata:
   linkType: hard
 
 "@types/react@npm:*":
-  version: 18.0.32
-  resolution: "@types/react@npm:18.0.32"
+  version: 18.0.33
+  resolution: "@types/react@npm:18.0.33"
   dependencies:
     "@types/prop-types": "*"
     "@types/scheduler": "*"
     csstype: ^3.0.2
-  checksum: c8dbce83c455e520e75f3649988f46100e3a3c0bf7241281ea5bd9067a0368290f0d7c6102e12e6ec9d649134b29a3ef4c421f376ec5aa06ed78cbdd8c144b4c
+  checksum: 4fbd2b2b6a26378bdfde121081a6406ec2d39e4ba87ea5f6897ab7bb2198713165e6fd703ad4ed7ba1d4f23ef54a4c9f108f3105c7ed8e136411ee6bdebc5669
   languageName: node
   linkType: hard
 
@@ -2189,9 +2189,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.284":
-  version: 1.4.348
-  resolution: "electron-to-chromium@npm:1.4.348"
-  checksum: 662491cd395de9eb7f400f139d8abc9a5e6dd33ff2b0eb71c060bdd7570f16ed876e0a57485dec2c42d55ad875f6c9d8f68f72f2ad3d8e1b2ab2cb4c20ee7bc5
+  version: 1.4.349
+  resolution: "electron-to-chromium@npm:1.4.349"
+  checksum: 315f1338b40dac035e4656e16adf6ccfe67d1325b5b14df8c1c187951bd89346317ce49539c42e86459b6454a64af2b9d6baa1e181fe4a65bea6c7ae32a9d7c1
   languageName: node
   linkType: hard
 
@@ -3552,11 +3552,11 @@ __metadata:
   linkType: hard
 
 "minimatch@npm:^8.0.2":
-  version: 8.0.2
-  resolution: "minimatch@npm:8.0.2"
+  version: 8.0.3
+  resolution: "minimatch@npm:8.0.3"
   dependencies:
     brace-expansion: ^2.0.1
-  checksum: ceb50867205c716a1d027e6de3bd5976a940cec266acf05ff41c29bff9967290a867b381f6317fcebddfb056f0eedff88484d121e4449c3bb16c552a51b7a745
+  checksum: 8957d8105be6729bf1d3af9c410b2a38ffcf3cd17d4ffaf715b2aa4841490aaa82f1ebff785e71b5b97747199ccc61027db597495941cf46243d9a64382e1560
   languageName: node
   linkType: hard
 
