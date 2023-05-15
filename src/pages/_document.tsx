@@ -18,14 +18,14 @@ export default class NextDocument extends Document {
 
   render(): JSX.Element {
     return (
-      <Html lang="en">
+      <Html lang='en'>
         <Head>
           {/* PWA primary color */}
-          <meta name="theme-color" content={theme.palette.primary.main} />
+          <meta name='theme-color' content={theme.palette.primary.main} />
           {/* eslint-disable-next-line @next/next/no-page-custom-font */}
           <link
-            rel="stylesheet"
-            href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+            rel='stylesheet'
+            href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap'
           />
         </Head>
         <body>

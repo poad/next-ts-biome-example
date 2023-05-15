@@ -76,33 +76,33 @@ const Layout = (props: PropsWithChildren<LayoutProps>) => {
   );
 
   const appBar = (
-    <AppBar position="fixed" sx={{ width: '100%' }}>
+    <AppBar position='fixed' sx={{ width: '100%' }}>
       <Toolbar>
         <IconButton
-          color="inherit"
-          aria-label="open drawer"
-          edge="start"
+          color='inherit'
+          aria-label='open drawer'
+          edge='start'
           onClick={handleDrawerToggle}
         >
           <MenuIcon />
         </IconButton>
-        <Typography variant="h6" noWrap />
+        <Typography variant='h6' noWrap />
       </Toolbar>
     </AppBar>
   );
 
   const drawerBox = (
     <Box
-      component="nav"
-      textAlign="center"
+      component='nav'
+      textAlign='center'
       sx={{ width: { sm: drawerWidth }, flexShrink: { sm: 0 } }}
-      aria-label="folders"
-      display="contents"
+      aria-label='folders'
+      display='contents'
     >
       <Drawer
         container={container}
-        variant="temporary"
-        anchor="left"
+        variant='temporary'
+        anchor='left'
         open={mobileOpen}
         onClose={handleDrawerToggle}
         sx={{

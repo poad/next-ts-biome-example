@@ -10,7 +10,7 @@ const App = ({ Component }: AppProps): JSX.Element => (
     {/* CssBaseline kickstart an elegant, consistent, and simple baseline to build upon. */}
     <Head>
       <title>Home</title>
-      <link rel="icon" href="/favicon.ico" />
+      <link rel='icon' href='/favicon.ico' />
     </Head>
     {/* ThemeProvider makes the theme available down the React
           tree thanks to React context. */}
