@@ -170,6 +170,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@babel/helper-member-expression-to-functions@npm:^7.22.0":
+  version: 7.22.3
+  resolution: "@babel/helper-member-expression-to-functions@npm:7.22.3"
+  dependencies:
+    "@babel/types": ^7.22.3
+  checksum: c31b7c8096e722ab7717a1e2343b26afa469172aeb1a8643e9387a14bb50d77dd032fafedf282fcde37b90dcadd2e770c0dfea745a3b1de893d607f2ccba7c0f
+  languageName: node
+  linkType: hard
+
 "@babel/helper-module-imports@npm:^7.16.7, @babel/helper-module-imports@npm:^7.21.4":
   version: 7.21.4
   resolution: "@babel/helper-module-imports@npm:7.21.4"
@@ -212,16 +221,16 @@ __metadata:
   linkType: hard
 
 "@babel/helper-replace-supers@npm:^7.21.5":
-  version: 7.21.5
-  resolution: "@babel/helper-replace-supers@npm:7.21.5"
+  version: 7.22.1
+  resolution: "@babel/helper-replace-supers@npm:7.22.1"
   dependencies:
-    "@babel/helper-environment-visitor": ^7.21.5
-    "@babel/helper-member-expression-to-functions": ^7.21.5
+    "@babel/helper-environment-visitor": ^7.22.1
+    "@babel/helper-member-expression-to-functions": ^7.22.0
     "@babel/helper-optimise-call-expression": ^7.18.6
-    "@babel/template": ^7.20.7
-    "@babel/traverse": ^7.21.5
-    "@babel/types": ^7.21.5
-  checksum: 4fd343e6f90533743d8e8a1f42e50377b3d6b27f524a27eb97ff28f075e4e55cca2383adb1b0973de358b08022aef0fec4c8d69711e1da43bf9b887b5a893677
+    "@babel/template": ^7.21.9
+    "@babel/traverse": ^7.22.1
+    "@babel/types": ^7.22.0
+  checksum: 4179090f7010cf9456d17ec354df10f4f647d9b57f6e0b021519d504afca977f67ca39ffe04b47369ea671a744309d0d58f436cb4c18aef000f1df3c0e1162ba
   languageName: node
   linkType: hard
 
@@ -296,6 +305,15 @@ __metadata:
   linkType: hard
 
 "@babel/parser@npm:^7.13.16, @babel/parser@npm:^7.21.5, @babel/parser@npm:^7.21.8, @babel/parser@npm:^7.21.9":
+  version: 7.22.3
+  resolution: "@babel/parser@npm:7.22.3"
+  bin:
+    parser: ./bin/babel-parser.js
+  checksum: 016f2960212fd86817e15d90b9b3450d2b51af189b1c17a20ade5735d9ec69e76e29def317e09188ecd5fa6eab4f9ab72d88b8b829c1b2994400a6a2c2dc1958
+  languageName: node
+  linkType: hard
+
+"@babel/parser@npm:^7.22.0":
   version: 7.22.3
   resolution: "@babel/parser@npm:7.22.3"
   bin:
