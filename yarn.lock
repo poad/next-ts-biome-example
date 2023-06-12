@@ -177,16 +177,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/helper-member-expression-to-functions@npm:^7.22.0":
-  version: 7.22.3
-  resolution: "@babel/helper-member-expression-to-functions@npm:7.22.3"
-  dependencies:
-    "@babel/types": ^7.22.3
-  checksum: c31b7c8096e722ab7717a1e2343b26afa469172aeb1a8643e9387a14bb50d77dd032fafedf282fcde37b90dcadd2e770c0dfea745a3b1de893d607f2ccba7c0f
-  languageName: node
-  linkType: hard
-
-"@babel/helper-member-expression-to-functions@npm:^7.22.5":
+"@babel/helper-member-expression-to-functions@npm:^7.22.0, @babel/helper-member-expression-to-functions@npm:^7.22.5":
   version: 7.22.5
   resolution: "@babel/helper-member-expression-to-functions@npm:7.22.5"
   dependencies:
@@ -570,7 +561,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/types@npm:^7.18.6, @babel/types@npm:^7.22.3, @babel/types@npm:^7.22.5, @babel/types@npm:^7.8.3":
+"@babel/types@npm:^7.18.6, @babel/types@npm:^7.22.5, @babel/types@npm:^7.8.3":
   version: 7.22.5
   resolution: "@babel/types@npm:7.22.5"
   dependencies:
