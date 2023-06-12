@@ -1699,13 +1699,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"caniuse-lite@npm:^1.0.30001502":
-  version: 1.0.30001502
-  resolution: "caniuse-lite@npm:1.0.30001502"
-  checksum: 801a9fd4b635082a976a2a0238c59e106f37238f93afddb504b88fa434d521cd9c600d8d9f305a0f4611c0b53c6d6c164e81ee38f0130ff46636c3b280195a0c
-  languageName: node
-  linkType: hard
-
 "chalk@npm:4.1.0":
   version: 4.1.0
   resolution: "chalk@npm:4.1.0"
