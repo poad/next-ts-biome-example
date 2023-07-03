@@ -907,11 +907,11 @@ __metadata:
   linkType: hard
 
 "@next/bundle-analyzer@npm:^13":
-  version: 13.4.7
-  resolution: "@next/bundle-analyzer@npm:13.4.7"
+  version: 13.4.8
+  resolution: "@next/bundle-analyzer@npm:13.4.8"
   dependencies:
     webpack-bundle-analyzer: 4.7.0
-  checksum: d19c53a11b922d517ed43dc4218f2e4b431b18a8c89075c1b7c0a33535ecfb56608673ed2ff015e024c5f96a8d08bc4527ebc195c4ed535d69aae285141027ad
+  checksum: 137d0fa9471e856d23a051f722d3000ad320d2205858bfef14606ebac644dd29946a34ce3d370b59a86769959def5ef37a3700d43cbd241c5ad345f0a7bc4f0e
   languageName: node
   linkType: hard
 
