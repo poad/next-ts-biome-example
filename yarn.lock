@@ -852,8 +852,8 @@ __metadata:
   linkType: hard
 
 "@mui/system@npm:^5.13.7":
-  version: 5.13.7
-  resolution: "@mui/system@npm:5.13.7"
+  version: 5.14.0
+  resolution: "@mui/system@npm:5.14.0"
   dependencies:
     "@babel/runtime": ^7.22.5
     "@mui/private-theming": ^5.13.7
@@ -875,7 +875,7 @@ __metadata:
       optional: true
     "@types/react":
       optional: true
-  checksum: 6d316ea3be91bb5a7c7c3068bd45c9d98b2d554483e33a65b14ac7e2a5baaf30e24da8688537a7a7e3cb20fb620723359425f89e430b1c264e5502c7282a1797
+  checksum: 8855bf8d36b2131a8edfe54c7ecbbf299562ca115ee34d51f47bd225b5800244b91a100f03e14e040a559de94603877a59882482e60c2eb2f4d47f8bd0740a6a
   languageName: node
   linkType: hard
 
