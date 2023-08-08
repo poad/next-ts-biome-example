@@ -1126,8 +1126,8 @@ packages:
       '@babel/helper-plugin-utils': 7.22.5
     dev: true
 
-  /@babel/plugin-transform-typescript@7.22.9(@babel/core@7.22.9):
-    resolution: {integrity: sha512-BnVR1CpKiuD0iobHPaM1iLvcwPYN2uVFAqoLVSpEDKWuOikoCv5HbKLxclhKYUXlWkX86DoZGtqI4XhbOsyrMg==}
+  /@babel/plugin-transform-typescript@7.22.10(@babel/core@7.22.9):
+    resolution: {integrity: sha512-7++c8I/ymsDo4QQBAgbraXLzIM6jmfao11KgIBEYZRReWzNWH9NtNgJcyrZiXsOPh523FQm6LfpLyy/U5fn46A==}
     engines: {node: '>=6.9.0'}
     peerDependencies:
       '@babel/core': ^7.0.0-0
@@ -1309,7 +1309,7 @@ packages:
       '@babel/helper-validator-option': 7.22.5
       '@babel/plugin-syntax-jsx': 7.22.5(@babel/core@7.22.9)
       '@babel/plugin-transform-modules-commonjs': 7.22.5(@babel/core@7.22.9)
-      '@babel/plugin-transform-typescript': 7.22.9(@babel/core@7.22.9)
+      '@babel/plugin-transform-typescript': 7.22.10(@babel/core@7.22.9)
     dev: true
 
   /@babel/register@7.22.5(@babel/core@7.22.9):
