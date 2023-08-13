@@ -42,7 +42,7 @@
     "@next/codemod": "^13.4.13",
     "@types/node": "^20.4.9",
     "@types/react": "^18.2.20",
-    "autoprefixer": "^10.4.14",
+    "autoprefixer": "^10.4.15",
     "next-compose-plugins": "^2.2.1",
     "next-transpile-modules": "^10.0.1",
     "postcss": "^8.4.27",
