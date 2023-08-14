@@ -47,8 +47,8 @@ devDependencies:
     specifier: ^13.4.13
     version: 13.4.13
   '@next/codemod':
-    specifier: ^13.4.13
-    version: 13.4.13(@babel/preset-env@7.22.10)
+    specifier: ^13.4.15
+    version: 13.4.15(@babel/preset-env@7.22.10)
   '@types/node':
     specifier: ^20.5.0
     version: 20.5.0
@@ -1715,8 +1715,8 @@ packages:
       - utf-8-validate
     dev: true
 
-  /@next/codemod@13.4.13(@babel/preset-env@7.22.10):
-    resolution: {integrity: sha512-rfrkZsZmKweiYXYhHOQwWtVhK103MPXK6xdDo4MyoPtst0y7VYob/AYtCvxLQV+vDRosZyRKAiyVZ0PrCvSnEw==}
+  /@next/codemod@13.4.15(@babel/preset-env@7.22.10):
+    resolution: {integrity: sha512-YWAOrolVQ2t6Q+X0hgR5DMi/pnAXG4UjRgWrVboYISC8756sO4F1wqX7Il/qU5Mhpv/70/la83bKUQLIqUMRpQ==}
     hasBin: true
     dependencies:
       cheerio: 1.0.0-rc.9
@@ -2047,10 +2047,6 @@ packages:
 
   /@types/minimist@1.2.2:
     resolution: {integrity: sha512-jhuKLIRrhvCPLqwPcx6INqmKeiA5EWrsCOPhrlFSrbrmU4ZMPjj5Ul/oLCMDO98XRUIwVm78xICz4EPCektzeQ==}
-    dev: true
-
-  /@types/node@20.4.9:
-    resolution: {integrity: sha512-8e2HYcg7ohnTUbHk8focoklEQYvemQmu9M/f43DZVx43kHn0tE3BY/6gSDxS7k0SprtS0NHvj+L80cGLnoOUcQ==}
     dev: true
 
   /@types/node@20.5.0:
@@ -3633,7 +3629,7 @@ packages:
     resolution: {integrity: sha512-7vuh85V5cdDofPyxn58nrPjBktZo0u9x1g8WtjQol+jZDaE+fhN+cIvTj11GndBnMnyfrUOG1sZQxCdjKh+DKg==}
     engines: {node: '>= 10.13.0'}
     dependencies:
-      '@types/node': 20.4.9
+      '@types/node': 20.5.0
       merge-stream: 2.0.0
       supports-color: 8.1.1
     dev: true
