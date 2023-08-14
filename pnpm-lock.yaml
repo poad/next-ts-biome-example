@@ -27,8 +27,8 @@ dependencies:
     specifier: ^5.14.4
     version: 5.14.4(@emotion/react@11.11.1)(@emotion/styled@11.11.0)(@types/react@18.2.20)(react@18.2.0)
   '@next/font':
-    specifier: ^13.4.13
-    version: 13.4.13
+    specifier: ^13.4.15
+    version: 13.4.15
   next:
     specifier: ^13.4.13
     version: 13.4.13(@babel/core@7.22.10)(react-dom@18.2.0)(react@18.2.0)
@@ -1736,8 +1736,8 @@ packages:
     resolution: {integrity: sha512-fwz2QgVg08v7ZL7KmbQBLF2PubR/6zQdKBgmHEl3BCyWTEDsAQEijjw2gbFhI1tcKfLdOOJUXntz5vZ4S0Polg==}
     dev: false
 
-  /@next/font@13.4.13:
-    resolution: {integrity: sha512-jzjUvjO967E2XWku5aImWRVApGwsTJZPp3lY5yFNWZHMkoNNKU9fsTEAhWVcKxCOYmHmSX1n2E09VkzuFdF48Q==}
+  /@next/font@13.4.15:
+    resolution: {integrity: sha512-5eyONhTa8h3yAOtc3cosE5yCoTvURmzMN7fYqzQkmb/oTwnvkx5fDWlGCmqlgRgC7Xmddvj3L7c2iV/jKP6Zrw==}
     dev: false
 
   /@next/swc-darwin-arm64@13.4.13:
@@ -2047,10 +2047,6 @@ packages:
 
   /@types/minimist@1.2.2:
     resolution: {integrity: sha512-jhuKLIRrhvCPLqwPcx6INqmKeiA5EWrsCOPhrlFSrbrmU4ZMPjj5Ul/oLCMDO98XRUIwVm78xICz4EPCektzeQ==}
-    dev: true
-
-  /@types/node@20.4.9:
-    resolution: {integrity: sha512-8e2HYcg7ohnTUbHk8focoklEQYvemQmu9M/f43DZVx43kHn0tE3BY/6gSDxS7k0SprtS0NHvj+L80cGLnoOUcQ==}
     dev: true
 
   /@types/node@20.5.0:
@@ -3633,7 +3629,7 @@ packages:
     resolution: {integrity: sha512-7vuh85V5cdDofPyxn58nrPjBktZo0u9x1g8WtjQol+jZDaE+fhN+cIvTj11GndBnMnyfrUOG1sZQxCdjKh+DKg==}
     engines: {node: '>= 10.13.0'}
     dependencies:
-      '@types/node': 20.4.9
+      '@types/node': 20.5.0
       merge-stream: 2.0.0
       supports-color: 8.1.1
     dev: true
