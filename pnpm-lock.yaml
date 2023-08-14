@@ -1545,7 +1545,7 @@ packages:
       '@babel/runtime': 7.22.10
       '@emotion/is-prop-valid': 1.2.1
       '@mui/types': 7.2.4(@types/react@18.2.20)
-      '@mui/utils': 5.14.4(react@18.2.0)
+      '@mui/utils': 5.14.5(react@18.2.0)
       '@popperjs/core': 2.11.8
       '@types/react': 18.2.20
       clsx: 2.0.0
@@ -1600,7 +1600,7 @@ packages:
       '@mui/core-downloads-tracker': 5.14.4
       '@mui/system': 5.14.4(@emotion/react@11.11.1)(@emotion/styled@11.11.0)(@types/react@18.2.20)(react@18.2.0)
       '@mui/types': 7.2.4(@types/react@18.2.20)
-      '@mui/utils': 5.14.4(react@18.2.0)
+      '@mui/utils': 5.14.5(react@18.2.0)
       '@types/react': 18.2.20
       '@types/react-transition-group': 4.4.6
       clsx: 2.0.0
@@ -1623,7 +1623,7 @@ packages:
         optional: true
     dependencies:
       '@babel/runtime': 7.22.10
-      '@mui/utils': 5.14.4(react@18.2.0)
+      '@mui/utils': 5.14.5(react@18.2.0)
       '@types/react': 18.2.20
       prop-types: 15.8.1
       react: 18.2.0
@@ -1673,7 +1673,7 @@ packages:
       '@mui/private-theming': 5.14.4(@types/react@18.2.20)(react@18.2.0)
       '@mui/styled-engine': 5.13.2(@emotion/react@11.11.1)(@emotion/styled@11.11.0)(react@18.2.0)
       '@mui/types': 7.2.4(@types/react@18.2.20)
-      '@mui/utils': 5.14.4(react@18.2.0)
+      '@mui/utils': 5.14.5(react@18.2.0)
       '@types/react': 18.2.20
       clsx: 2.0.0
       csstype: 3.1.2
@@ -1692,8 +1692,8 @@ packages:
       '@types/react': 18.2.20
     dev: false
 
-  /@mui/utils@5.14.4(react@18.2.0):
-    resolution: {integrity: sha512-4ANV0txPD3x0IcTCSEHKDWnsutg1K3m6Vz5IckkbLXVYu17oOZCVUdOKsb/txUmaCd0v0PmSRe5PW+Mlvns5dQ==}
+  /@mui/utils@5.14.5(react@18.2.0):
+    resolution: {integrity: sha512-6Hzw63VR9C5xYv+CbjndoRLU6Gntal8rJ5W+GUzkyHrGWIyYPWZPa6AevnyGioySNETATe1H9oXS8f/7qgIHJA==}
     engines: {node: '>=12.0.0'}
     peerDependencies:
       react: ^17.0.0 || ^18.0.0
@@ -2047,10 +2047,6 @@ packages:
 
   /@types/minimist@1.2.2:
     resolution: {integrity: sha512-jhuKLIRrhvCPLqwPcx6INqmKeiA5EWrsCOPhrlFSrbrmU4ZMPjj5Ul/oLCMDO98XRUIwVm78xICz4EPCektzeQ==}
-    dev: true
-
-  /@types/node@20.4.9:
-    resolution: {integrity: sha512-8e2HYcg7ohnTUbHk8focoklEQYvemQmu9M/f43DZVx43kHn0tE3BY/6gSDxS7k0SprtS0NHvj+L80cGLnoOUcQ==}
     dev: true
 
   /@types/node@20.5.0:
@@ -3633,7 +3629,7 @@ packages:
     resolution: {integrity: sha512-7vuh85V5cdDofPyxn58nrPjBktZo0u9x1g8WtjQol+jZDaE+fhN+cIvTj11GndBnMnyfrUOG1sZQxCdjKh+DKg==}
     engines: {node: '>= 10.13.0'}
     dependencies:
-      '@types/node': 20.4.9
+      '@types/node': 20.5.0
       merge-stream: 2.0.0
       supports-color: 8.1.1
     dev: true
