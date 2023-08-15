@@ -27,8 +27,8 @@ dependencies:
     specifier: ^5.14.5
     version: 5.14.5(@emotion/react@11.11.1)(@emotion/styled@11.11.0)(@types/react@18.2.20)(react@18.2.0)
   '@next/font':
-    specifier: ^13.4.15
-    version: 13.4.15
+    specifier: ^13.4.16
+    version: 13.4.16
   next:
     specifier: ^13.4.15
     version: 13.4.15(@babel/core@7.22.10)(react-dom@18.2.0)(react@18.2.0)
@@ -1736,8 +1736,8 @@ packages:
     resolution: {integrity: sha512-GQXUy/y5NW4VbrKQMbLjsuTykJ7+Jtb9zcKH1WrmgI1zG7yCoZQaoI65YFNksEh+9EPSHX6Xr7U1/StIIAOXog==}
     dev: false
 
-  /@next/font@13.4.15:
-    resolution: {integrity: sha512-5eyONhTa8h3yAOtc3cosE5yCoTvURmzMN7fYqzQkmb/oTwnvkx5fDWlGCmqlgRgC7Xmddvj3L7c2iV/jKP6Zrw==}
+  /@next/font@13.4.16:
+    resolution: {integrity: sha512-1UciFHgwieMfDygileymqeYPEmIeZWIfgrsa2POZlRW+yAsDt0qy0InfFAYvXhNgALTI6ix3JU2XhcuzonhQLA==}
     dev: false
 
   /@next/swc-darwin-arm64@13.4.15:
