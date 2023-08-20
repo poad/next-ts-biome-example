@@ -40,7 +40,7 @@
   "devDependencies": {
     "@next/bundle-analyzer": "^13.4.17",
     "@next/codemod": "^13.4.17",
-    "@types/node": "^20.5.0",
+    "@types/node": "^20.5.1",
     "@types/react": "^18.2.20",
     "autoprefixer": "^10.4.15",
     "next-compose-plugins": "^2.2.1",
