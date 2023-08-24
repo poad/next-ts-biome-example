@@ -776,8 +776,8 @@ packages:
       '@babel/helper-plugin-utils': 7.22.5
     dev: true
 
-  /@babel/plugin-transform-export-namespace-from@7.22.5(@babel/core@7.22.10):
-    resolution: {integrity: sha512-X4hhm7FRnPgd4nDA4b/5V280xCx6oL7Oob5+9qVS5C13Zq4bh1qq7LU0GgRU6b5dBWBvhGaXYVB4AcN6+ol6vg==}
+  /@babel/plugin-transform-export-namespace-from@7.22.11(@babel/core@7.22.10):
+    resolution: {integrity: sha512-xa7aad7q7OiT8oNZ1mU7NrISjlSkVdMbNxn9IuLZyL9AJEhs1Apba3I+u5riX1dIkdptP5EKDG5XDPByWxtehw==}
     engines: {node: '>=6.9.0'}
     peerDependencies:
       '@babel/core': ^7.0.0-0
@@ -1218,7 +1218,7 @@ packages:
       '@babel/plugin-transform-duplicate-keys': 7.22.5(@babel/core@7.22.10)
       '@babel/plugin-transform-dynamic-import': 7.22.5(@babel/core@7.22.10)
       '@babel/plugin-transform-exponentiation-operator': 7.22.5(@babel/core@7.22.10)
-      '@babel/plugin-transform-export-namespace-from': 7.22.5(@babel/core@7.22.10)
+      '@babel/plugin-transform-export-namespace-from': 7.22.11(@babel/core@7.22.10)
       '@babel/plugin-transform-for-of': 7.22.5(@babel/core@7.22.10)
       '@babel/plugin-transform-function-name': 7.22.5(@babel/core@7.22.10)
       '@babel/plugin-transform-json-strings': 7.22.5(@babel/core@7.22.10)
@@ -2047,10 +2047,6 @@ packages:
 
   /@types/minimist@1.2.2:
     resolution: {integrity: sha512-jhuKLIRrhvCPLqwPcx6INqmKeiA5EWrsCOPhrlFSrbrmU4ZMPjj5Ul/oLCMDO98XRUIwVm78xICz4EPCektzeQ==}
-    dev: true
-
-  /@types/node@20.5.3:
-    resolution: {integrity: sha512-ITI7rbWczR8a/S6qjAW7DMqxqFMjjTo61qZVWJ1ubPvbIQsL5D/TvwjYEalM8Kthpe3hTzOGrF2TGbAu2uyqeA==}
     dev: true
 
   /@types/node@20.5.4:
@@ -3633,7 +3629,7 @@ packages:
     resolution: {integrity: sha512-7vuh85V5cdDofPyxn58nrPjBktZo0u9x1g8WtjQol+jZDaE+fhN+cIvTj11GndBnMnyfrUOG1sZQxCdjKh+DKg==}
     engines: {node: '>= 10.13.0'}
     dependencies:
-      '@types/node': 20.5.3
+      '@types/node': 20.5.4
       merge-stream: 2.0.0
       supports-color: 8.1.1
     dev: true
