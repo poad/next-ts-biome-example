@@ -885,8 +885,8 @@ packages:
       '@babel/helper-simple-access': 7.22.5
     dev: true
 
-  /@babel/plugin-transform-modules-systemjs@7.22.5(@babel/core@7.22.11):
-    resolution: {integrity: sha512-emtEpoaTMsOs6Tzz+nbmcePl6AKVtS1yC4YNAeMun9U8YCsgadPNxnOPQ8GhHFB2qdx+LZu9LgoC0Lthuu05DQ==}
+  /@babel/plugin-transform-modules-systemjs@7.22.11(@babel/core@7.22.11):
+    resolution: {integrity: sha512-rIqHmHoMEOhI3VkVf5jQ15l539KrwhzqcBO6wdCNWPWc/JWt9ILNYNUssbRpeq0qWns8svuw8LnMNCvWBIJ8wA==}
     engines: {node: '>=6.9.0'}
     peerDependencies:
       '@babel/core': ^7.0.0-0
@@ -1227,7 +1227,7 @@ packages:
       '@babel/plugin-transform-member-expression-literals': 7.22.5(@babel/core@7.22.11)
       '@babel/plugin-transform-modules-amd': 7.22.5(@babel/core@7.22.11)
       '@babel/plugin-transform-modules-commonjs': 7.22.11(@babel/core@7.22.11)
-      '@babel/plugin-transform-modules-systemjs': 7.22.5(@babel/core@7.22.11)
+      '@babel/plugin-transform-modules-systemjs': 7.22.11(@babel/core@7.22.11)
       '@babel/plugin-transform-modules-umd': 7.22.5(@babel/core@7.22.11)
       '@babel/plugin-transform-named-capturing-groups-regex': 7.22.5(@babel/core@7.22.11)
       '@babel/plugin-transform-new-target': 7.22.5(@babel/core@7.22.11)
