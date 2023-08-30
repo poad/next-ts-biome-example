@@ -29,7 +29,7 @@
     "@emotion/server": "^11.11.0",
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.14.7",
-    "@mui/material": "^5.14.6",
+    "@mui/material": "^5.14.7",
     "@mui/system": "^5.14.7",
     "@next/font": "^13.4.19",
     "next": "^13.4.19",
