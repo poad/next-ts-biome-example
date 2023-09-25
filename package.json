@@ -37,7 +37,7 @@
   "devDependencies": {
     "@biomejs/biome": "1.2.2",
     "@next/bundle-analyzer": "^13.5.2",
-    "@types/node": "^20.6.3",
+    "@types/node": "^20.6.5",
     "@types/react": "^18.2.22",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.30",
