@@ -38,7 +38,7 @@
     "@biomejs/biome": "1.4.1",
     "@next/bundle-analyzer": "^14.0.4",
     "@types/node": "^20.10.4",
-    "@types/react": "^18.2.43",
+    "@types/react": "^18.2.45",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.32",
     "rimraf": "^5.0.5",
