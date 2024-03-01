@@ -44,8 +44,8 @@ devDependencies:
     specifier: ^14.1.0
     version: 14.1.0
   '@types/node':
-    specifier: ^20.11.23
-    version: 20.11.23
+    specifier: ^20.11.24
+    version: 20.11.24
   '@types/react':
     specifier: ^18.2.61
     version: 18.2.61
@@ -726,8 +726,8 @@ packages:
       tslib: 2.6.2
     dev: false
 
-  /@types/node@20.11.23:
-    resolution: {integrity: sha512-ZUarKKfQuRILSNYt32FuPL20HS7XwNT7/uRwSV8tiHWfyyVwDLYZNF6DZKc2bove++pgfsXn9sUwII/OsQ82cQ==}
+  /@types/node@20.11.24:
+    resolution: {integrity: sha512-Kza43ewS3xoLgCEpQrsT+xRo/EJej1y0kVYGiLFE1NEODXGzTfwiC6tXTLMQskn1X4/Rjlh0MQUvx9W+L9long==}
     dependencies:
       undici-types: 5.26.5
     dev: true
@@ -864,7 +864,7 @@ packages:
     hasBin: true
     dependencies:
       caniuse-lite: 1.0.30001591
-      electron-to-chromium: 1.4.687
+      electron-to-chromium: 1.4.688
       node-releases: 2.0.14
       update-browserslist-db: 1.0.13(browserslist@4.23.0)
     dev: true
@@ -1027,8 +1027,8 @@ packages:
     resolution: {integrity: sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==}
     dev: true
 
-  /electron-to-chromium@1.4.687:
-    resolution: {integrity: sha512-Ic85cOuXSP6h7KM0AIJ2hpJ98Bo4hyTUjc4yjMbkvD+8yTxEhfK9+8exT2KKYsSjnCn2tGsKVSZwE7ZgTORQCw==}
+  /electron-to-chromium@1.4.688:
+    resolution: {integrity: sha512-3/tHg2ChPF00eukURIB8cSVt3/9oeS1oTUIEt3ivngBInUaEcBhG2VdyEDejhwQdR6SLqaiEAEc0dHS0V52pOw==}
     dev: true
 
   /emoji-regex@8.0.0:
