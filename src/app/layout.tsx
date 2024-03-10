@@ -1,7 +1,7 @@
 "use client";
 
 import { CssBaseline, ThemeProvider } from "@mui/material";
-import { ReactNode } from "react";
+import type { ReactNode } from "react";
 import "./layout.css";
 import StyledJsxRegistry from "./registry";
 import theme from "./theme";
