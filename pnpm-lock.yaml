@@ -55,8 +55,8 @@ importers:
         specifier: ^10.4.20
         version: 10.4.20(postcss@8.5.1)
       pnpm:
-        specifier: ^10.0.0
-        version: 10.0.0
+        specifier: ^10.1.0
+        version: 10.1.0
       postcss:
         specifier: ^8.5.1
         version: 8.5.1
@@ -878,8 +878,8 @@ packages:
   picocolors@1.1.1:
     resolution: {integrity: sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA==}
 
-  pnpm@10.0.0:
-    resolution: {integrity: sha512-uP71SUvT/ky9Ttq9B0XfLuW+PksLiwj6ZDqj5MZwLMwPANaPqKjJhYpzWgAySFpEmQ7SgQUmyHXkFvABsX3xKw==}
+  pnpm@10.1.0:
+    resolution: {integrity: sha512-yJhHsGZ92rUDlru9AIoqQ887WB79Wc9dmqiSPqH7S4EGwEHVQNCKywlQN1lNc+vFHh7InuQMiLMLimbA+uCsGw==}
     engines: {node: '>=18.12'}
     hasBin: true
 
@@ -1844,7 +1844,7 @@ snapshots:
 
   picocolors@1.1.1: {}
 
-  pnpm@10.0.0: {}
+  pnpm@10.1.0: {}
 
   postcss-value-parser@4.2.0: {}
 
